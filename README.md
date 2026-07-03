@@ -1,7 +1,4 @@
-# Online--Retail-Sales-data
-Excel bases retail sales analysis project with cleaned data, pivot tables, dashboard, insights and business recommendations.
-```markdown
-```markdown
+
 # 📊 Online Retail Sales Analysis using Microsoft Excel
 
 ## Overview
